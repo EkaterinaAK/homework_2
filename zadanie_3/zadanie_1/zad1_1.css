@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(241, 179, 179);  
+}
+.bl1{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 2vh;
+}
+.bl11{
+    width: 49%;
+    height: 9vh;
+    float: left;
+    margin: 0 0.5%;
+    background-color:yellow;
+}
+.bl12{
+    width: 49%;
+    height: 9vh;
+    float: left;
+    margin: 0 0.5%;
+    background-color:yellow;
+}
+.bl2{
+    background-color: teal;
+    width: 99%;
+    height: 36vh;
+    overflow: hidden;
+    margin-bottom: 2vh;
+    margin-left: 1vh;
+}
+.bl3{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 2vh;
+}
+.bl31{
+    width: 32%;
+    height: 27vh;
+    float: left;
+    background-color:rgb(27, 35, 145);
+    margin: 0 0.5%;
+}
+.bl32{
+    width: 32%;
+    height: 27vh;
+    float: left;
+    background-color:rgb(27, 35, 145);
+    margin: 0 0.75%;
+}
+.bl33{
+    width: 32%;
+    height: 27vh;
+    float: left;
+    background-color:rgb(27, 35, 145);
+    margin: 0 0.75%;
+}
+.bl4{
+    width: 100%;
+    overflow: hidden;
+    margin-bottom: 2vh;
+}
+.bl41{
+    width: 24%;
+    height: 18vh;
+    float: left;
+    background-color:rgb(22, 233, 103);
+    margin: 0 0.5%;
+}
+.bl42{
+    width: 24%;
+    height: 18vh;
+    float: left;
+    background-color:rgb(22, 233, 103);
+    margin: 0 0.45%;
+}
+.bl43{
+    width: 24%;
+    height: 18vh;
+    float: left;
+    background-color:rgb(22, 233, 103);
+    margin: 0 0.5%;
+}
+.bl44{
+    width: 24%;
+    height: 18vh;
+    float: left;
+    background-color:rgb(22, 233, 103);
+    margin: 0 0.5%;
+}
